@@ -15,6 +15,7 @@ dynamic_sidebar('pallet-widget-block-1');
 if(is_active_sidebar('pallet-widget-block-2')){
 dynamic_sidebar('pallet-widget-block-2');
 }
+
 ?>
 </div>
     </div>
@@ -23,7 +24,7 @@ dynamic_sidebar('pallet-widget-block-2');
 }
 ?>
 
-        
+
 <div id="footer-sidebar" class="secondary">
     <div id="footer-internal" >
 <div id="footer-sidebar1">
@@ -54,9 +55,9 @@ dynamic_sidebar('footer-sidebar-4');
 }
 ?>
 </div>
-        
+
 </div>
-     
+
 </div>
 <?php
 /**
