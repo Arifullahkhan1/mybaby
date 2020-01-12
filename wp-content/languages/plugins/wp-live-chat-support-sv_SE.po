@@ -1,0 +1,1160 @@
+# Translation of Plugins - WP-Live Chat by 3CX - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - WP-Live Chat by 3CX - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-15 12:33:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP-Live Chat by 3CX - Development (trunk)\n"
+
+#: wp-live-chat-support.php:2704
+msgid "Already installed"
+msgstr "Redan installerad"
+
+#: wp-live-chat-support.php:2676
+msgid "Pro version"
+msgstr "Pro-version"
+
+#: wp-live-chat-support.php:2675
+msgid "Free version"
+msgstr "Gratisversionen"
+
+#: wp-live-chat-support.php:2674
+msgid "Both"
+msgstr "Båda"
+
+#: wp-live-chat-support.php:2673
+msgid "For:"
+msgstr "För:"
+
+#: wp-live-chat-support.php:2670
+msgid "Paid"
+msgstr "Betald"
+
+#: wp-live-chat-support.php:2669
+msgid "Free"
+msgstr "Gratis"
+
+#: wp-live-chat-support.php:2668
+msgid "All"
+msgstr "Allt"
+
+#: wp-live-chat-support.php:2667
+msgid "Price:"
+msgstr "Pris:"
+
+#. Author of the plugin/theme
+msgid "WP-LiveChat"
+msgstr "WP-LiveChat"
+
+#. Description of the plugin/theme
+msgid "The easiest to use website live chat plugin. Let your visitors chat with you and increase sales conversion rates with WP Live Chat Support. No third party connection required!"
+msgstr "Tillägget som är enklast att använda för live-chatt på en webbplats. Låt besökarna chatta med dig och öka konverteringsgraden i din försäljning med hjälp av WP Live Chat Support. Ingen anslutning till utomstående system krävs!"
+
+#. #-#-#-#-#  tmp-wp-live-chat-support.pot (WP Live Chat Support 5.0.10) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-wp-live-chat-support.pot (WP Live Chat Support 5.0.10) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.wp-livechat.com"
+msgstr "http://www.wp-livechat.com"
+
+#: wp-live-chat-support.php:2803
+msgid "WP Live Chat Support is a product of"
+msgstr "WP Live Chat Support är en produkt av"
+
+#: wp-live-chat-support.php:2798
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</a>! Please <a href=\"%2$s\" target=\"_blank\">rate us</a> on <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+msgstr "Tack för att du använder <a href=\"%1$s\" target=\"_blank\">WP Live Chat Support</a>! Vänligen <a href=\"%2$s\" target=\"_blank\">betygsätt oss</a> på <a href=\"%2$s\" target=\"_blank\">WordPress.org</a>"
+
+#: wp-live-chat-support.php:2784
+msgid "for only $19.95 once off."
+msgstr "för engångskonstnaden 19,95 USD."
+
+#: wp-live-chat-support.php:2784
+msgid " with the Pro add-on of WP Live Chat Support"
+msgstr " med Pro-utökningen för WP Live Chat support"
+
+#: wp-live-chat-support.php:2784
+msgid "Add unlimited agents"
+msgstr "Lägg till obegränsade agenter"
+
+#: wp-live-chat-support.php:2783
+msgid "accept and handle multiple chats."
+msgstr "acceptera och hantera flera chattar."
+
+#: wp-live-chat-support.php:2783
+msgid "Multiple Chats"
+msgstr "Flera chattar"
+
+#: wp-live-chat-support.php:2782
+msgid "Initiate Chats"
+msgstr "Påbörja chattar"
+
+#: wp-live-chat-support.php:2767
+msgid "Contact us"
+msgstr "Kontakta oss"
+
+#: wp-live-chat-support.php:2766
+msgid "Support forum"
+msgstr "Supportforum"
+
+#: wp-live-chat-support.php:2764
+msgid "Still need help? Use one of these links below."
+msgstr "Behöver du fortfarande hjälp? Använd någon av dessa länkar nedan."
+
+#: wp-live-chat-support.php:2758
+msgid "The chat window never goes offline"
+msgstr "Chattfönstret är aldrig offline"
+
+#: wp-live-chat-support.php:2757
+msgid "I'm not getting any notifications of a new chat"
+msgstr "Jag får inte aviseringar om nya chattar"
+
+#: wp-live-chat-support.php:2756
+msgid "Messages only show when I refresh the chat window"
+msgstr "Meddelanden visas bara när jag uppdaterar chattfönstret"
+
+#: wp-live-chat-support.php:2755
+msgid "This chat has already been answered. Please close the chat window"
+msgstr "Den här chatten har redan besvarats. Stäng chattfönstret"
+
+#: wp-live-chat-support.php:2754
+msgid "The chat window disappears when I logout or go offline"
+msgstr "Chattfönstret försvinner när jag loggar ut eller går offline"
+
+#: wp-live-chat-support.php:2753
+msgid "The chat box doesnt show up"
+msgstr "Chattrutan visas inte"
+
+#: wp-live-chat-support.php:2751
+msgid "Common issues:"
+msgstr "Vanliga problem:"
+
+#: wp-live-chat-support.php:2750
+msgid "WP Live Chat Support  has a diverse and wide range of features which may, from time to time, run into conflicts with the thousands of themes and other plugins on the market."
+msgstr "WP Live Chat support har ett stort och brett spektrum av funktioner som ibland riskerar att krocka med de tusentals teman och tillägg som finns på marknaden."
+
+#: wp-live-chat-support.php:2748
+msgid "Troubleshooting"
+msgstr "Felsökning"
+
+#: wp-live-chat-support.php:2744
+msgid "How do I check for JavaScript errors on my site?"
+msgstr "Hur kontrollerar jag om det förekommer JavaScript-fel på min webbplats?"
+
+#: wp-live-chat-support.php:2743
+msgid "Do you have a mobile app?"
+msgstr "Har ni en mobilapp?"
+
+#: wp-live-chat-support.php:2742
+msgid "How do I disable APC Object Cache?"
+msgstr "Hur inaktiverar jag APC Object Cache?"
+
+#: wp-live-chat-support.php:2741
+msgid "Can I use this plugin on my multi-site?"
+msgstr "Går det att använda detta tillägg på min multi-site?"
+
+#: wp-live-chat-support.php:2740
+msgid "What are Quick Responses?"
+msgstr "Vad är snabbsvar?"
+
+#: wp-live-chat-support.php:2739
+msgid "Do I have to be logged into the dashboard to chat with visitors?"
+msgstr "Måste jag vara inloggad i adminpanelen för att kunna chatta med mina besökare?"
+
+#: wp-live-chat-support.php:2738
+msgid "Minimum System Requirements"
+msgstr "Lägsta systemkrav"
+
+#: wp-live-chat-support.php:2736
+msgid "Documentation:"
+msgstr "Dokumentation:"
+
+#: wp-live-chat-support.php:2735
+msgid "Getting started? Read through some of these articles to help you along your way."
+msgstr "Ska du just komma igång? Här är några artiklar som hjälper dig på vägen."
+
+#: wp-live-chat-support.php:2733
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#. #-#-#-#-#  tmp-wp-live-chat-support.pot (WP Live Chat Support 5.0.10) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-live-chat-support.php:2730
+msgid "WP Live Chat Support"
+msgstr "WP Live Chat Support"
+
+#: wp-live-chat-support.php:2633
+msgid "Create and send newsletters, automatic post notifications and autoresponders that are modern and beautiful with Nifty Newsletters."
+msgstr "Skapa och skicka moderna och vackra nyhetsbrev, automatiska aviseringar om nya inlägg och automatsvar med hjälp av Nifty Newsletters."
+
+#: wp-live-chat-support.php:2628 wp-live-chat-support.php:2629
+#: wp-live-chat-support.php:2630 wp-live-chat-support.php:2635
+msgid "Nifty Newsletters"
+msgstr "Nifty Newsletters"
+
+#: wp-live-chat-support.php:2624 wp-live-chat-support.php:2635
+msgid "Get this Plugin"
+msgstr "Skaffa detta tillägg"
+
+#: wp-live-chat-support.php:2622
+msgid "The easiest to use Help Desk & Support Ticket plugin. Create a support help desk quickly and easily with Sola Support Tickets."
+msgstr "Det mest lättanvända tillägget för hjälpcenter och supportärendehantering. Skapa en help desk snabbt och enkelt med Sola Support Tickets."
+
+#: wp-live-chat-support.php:2617 wp-live-chat-support.php:2618
+#: wp-live-chat-support.php:2619 wp-live-chat-support.php:2624
+msgid "Sola Support Tickets"
+msgstr "Sola Support Tickets"
+
+#: wp-live-chat-support.php:2606
+msgid "Suggested Plugins"
+msgstr "Föreslagna tillägg"
+
+#: wp-live-chat-support.php:2606
+msgid "Add-ons"
+msgstr "Utökningar"
+
+#: wp-live-chat-support.php:2584
+msgid "WPLC: Safe mode is enabled on this server. You may experience issues while using WP Live Chat Support as a result of this. Please contact your host to get safe mode disabled."
+msgstr "WPLC: Säkert läge (safe mode) är aktiverat på servern. Det kan ge problem med att använda WP Live Chat Support. Kontakta webbhotellet och be dem inaktivera säkert läge."
+
+#: wp-live-chat-support.php:2578
+msgid "WPLC: set_time_limit() is not enabled on this server. You may experience issues while using WP Live Chat Support as a result of this. Please get in contact your host to get this function enabled."
+msgstr "WPLC: set_time_limit() är inte aktiverat på servern. Det kan ge problem med att använda WP Live Chat Support. Kontakta webbhotellet och be dem aktivera denna funktion."
+
+#: wp-live-chat-support.php:2544
+msgid "There was a problem sending your feedback. Please log your feedback on "
+msgstr "Det uppstod ett problem när din feedback skickades. Var god skicka din feedback på "
+
+#: wp-live-chat-support.php:2528 wp-live-chat-support.php:2541
+msgid "Thank you for your feedback. We will be in touch soon"
+msgstr "Tack för din feedback. Vi hör av oss snart"
+
+#: wp-live-chat-support.php:2524
+msgid "Thank You for your feedback!"
+msgstr "Tack för din feedback!"
+
+#: wp-live-chat-support.php:2509
+msgid "Your settings have been saved."
+msgstr "Dina inställningar har blivit sparade."
+
+#: wp-live-chat-support.php:2466
+msgid "Please click 'Start Chat' to initiate a chat with an agent"
+msgstr "Klicka på ”Börja chatta” för att inleda en chatt med en agent"
+
+#: wp-live-chat-support.php:2391
+msgid "Get it now for only $19.95."
+msgstr "Skaffa det nu för endast $19.95."
+
+#: wp-live-chat-support.php:2388
+msgid "Please update to the latest version of WP Live Chat Support Pro to start recording any offline messages."
+msgstr "Uppdatera tillägget till senaste versionen av WP Live Chat Support pro för att börja spela in offline-meddelanden."
+
+#: wp-live-chat-support.php:2383
+msgid "WP Live Chat Offline Messages"
+msgstr "WP Live Chat offline-meddelanden"
+
+#: wp-live-chat-support.php:2375
+msgid "WP Live Chat Missed Chats"
+msgstr "Missade chattar i WP Live Chat"
+
+#: wp-live-chat-support.php:2369
+msgid "Get it now for only $19.95"
+msgstr "Skaffa det nu för endast $19.95"
+
+#: wp-live-chat-support.php:2369 wp-live-chat-support.php:2391
+msgid "This option is only available in the "
+msgstr "Det här alternativet är endast tillgängligt i "
+
+#: wp-live-chat-support.php:2362
+msgid "WP Live Chat History"
+msgstr "Historik för WP Live Chat"
+
+#: wp-live-chat-support.php:2095
+msgid "User has closed and ended the chat"
+msgstr "Användaren har stängt och slutat chatten"
+
+#: wp-live-chat-support.php:2090
+msgid "User has maximized the chat window"
+msgstr "Användaren har maximerat chattfönstret"
+
+#: wp-live-chat-support.php:2085
+msgid "User has minimized the chat window"
+msgstr "Användaren har minimerat chattfönstret"
+
+#: wp-live-chat-support.php:2080
+msgid "User has opened the chat window"
+msgstr "Användaren har öppnat chattfönstret"
+
+#: wp-live-chat-support.php:1957
+msgid "type here..."
+msgstr "skriv här…"
+
+#: wp-live-chat-support.php:1946
+msgid "Pro version only"
+msgstr "Endast Pro-version"
+
+#: wp-live-chat-support.php:1946
+msgid "Add Quick Responses to your Live Chat"
+msgstr "Lägg till snabbsvar i din Live Chat"
+
+#: wp-live-chat-support.php:1946
+msgid "Assign Quick Response"
+msgstr "Tilldela snabbsvar"
+
+#: wp-live-chat-support.php:1910
+msgid "End chat"
+msgstr "Avsluta chatt"
+
+#: wp-live-chat-support.php:1907
+msgid "Chat with"
+msgstr "Chatta med"
+
+#: wp-live-chat-support.php:1898
+msgid "Active"
+msgstr "Aktiv"
+
+#: wp-live-chat-support.php:1896
+msgid "Previous"
+msgstr "Föregående"
+
+#: wp-live-chat-support.php:1833 wp-live-chat-support.php:1835
+#: wp-live-chat-support.php:2782 wp-live-chat-support.php:2783
+msgid "Buy the Pro add-on now for only $19.95 once off."
+msgstr "Köp Pro-utökningen nu, engångspris 19,95 USD."
+
+#: wp-live-chat-support.php:1832 wp-live-chat-support.php:2782
+msgid "with your online visitors with the click of a button."
+msgstr "med dina besökare som är online med ett klick."
+
+#: wp-live-chat-support.php:1831 wp-live-chat-support.php:2782
+msgid "initiate chats"
+msgstr "påbörja chattar"
+
+#: wp-live-chat-support.php:1830 wp-live-chat-support.php:2782
+msgid "see who's online and initiate chats"
+msgstr "se vilka som är online och initiera chattar"
+
+#: wp-live-chat-support.php:1829 wp-live-chat-support.php:2782
+#: wp-live-chat-support.php:2783
+msgid "With the Pro add-on of WP Live Chat Support, you can"
+msgstr "Med Pro add-on av WP live Chat Support, så kan du"
+
+#: wp-live-chat-support.php:1822
+msgid "Action"
+msgstr "Åtgärd"
+
+#: wp-live-chat-support.php:1821
+msgid "Status"
+msgstr "Status"
+
+#: wp-live-chat-support.php:1820
+msgid "Data"
+msgstr "Data"
+
+#: wp-live-chat-support.php:1819
+msgid "Type"
+msgstr "Typ"
+
+#: wp-live-chat-support.php:1818
+msgid "Time"
+msgstr "Tid"
+
+#: wp-live-chat-support.php:1817
+msgid "Visitor"
+msgstr "Besökare"
+
+#: wp-live-chat-support.php:1807
+msgid "Agent(s) online"
+msgstr "Agent(er) online"
+
+#: wp-live-chat-support.php:1802
+msgid "Visitors online"
+msgstr "Besökare online"
+
+#: wp-live-chat-support.php:1792
+msgid "Please note: This window must be open in order to receive new chat notifications."
+msgstr "Vänligen notera: Detta fönster måste vara öppet för att kunna ta emot nya chattnotifikationer."
+
+#: wp-live-chat-support.php:1789
+msgid "Chat Dashboard"
+msgstr "Chattpanel"
+
+#: wp-live-chat-support.php:1755
+msgid "Hide"
+msgstr "Dölj"
+
+#: wp-live-chat-support.php:1753
+msgid "Visit our troubleshooting section."
+msgstr "Besök vårt felsökningssektion."
+
+#: wp-live-chat-support.php:1753
+msgid "Experiencing issues?"
+msgstr "Har du problem?"
+
+#: wp-live-chat-support.php:1752
+msgid "You may <a href='?page=wplivechat-menu-settings' target='_BLANK'>modify your chat box settings here."
+msgstr "Du kan <a href='?page=wplivechat-menu-settings' target='_BLANK'>redigera inställningarna för din chatt-ruta här."
+
+#: wp-live-chat-support.php:1751
+msgid "Chat notifications will start appearing once visitors send a request."
+msgstr "Chattaviseringar kommer att börja visas när någon besökare skicka en förfrågan."
+
+#: wp-live-chat-support.php:1750
+msgid "The live chat box has automatically been enabled on your website."
+msgstr "Rutan för livechatt har automatiskt aktiverats på webbplatsen."
+
+#: wp-live-chat-support.php:1749
+msgid "You are now accepting live chat requests on your site."
+msgstr "Du accepterar nu live chat-förfrågningar på din webbplats."
+
+#: wp-live-chat-support.php:1748
+msgid "Congratulations"
+msgstr "Gratulerar"
+
+#: wp-live-chat-support.php:1717
+msgid "to ensure everything is working correctly."
+msgstr "för att säkerställa att allt fungerar korrekt."
+
+#: wp-live-chat-support.php:1716
+msgid "Version 5.0.1"
+msgstr "Version 5.0.1"
+
+#: wp-live-chat-support.php:1715
+msgid "Please update to the latest version of WP Live Chat Support Pro"
+msgstr "Uppdatera till den senaste versionen av WP Live Chat Support Pro"
+
+#: wp-live-chat-support.php:1713
+msgid "You are using an outdated version of <strong>WP Live Chat Support Pro</strong>."
+msgstr "Du använder en föråldrad version av <strong>WP Live Chat Support Pro</strong>."
+
+#: wp-live-chat-support.php:1701 wp-live-chat-support.php:1721
+msgid "If you are having difficulty updating the plugin, please contact"
+msgstr "Om du har problem med att uppdatera detta tillägg, kontakta"
+
+#: wp-live-chat-support.php:1700 wp-live-chat-support.php:1720
+msgid "You can update your plugin <a href='./update-core.php'>here</a>, <a href='./plugins.php'>here</a> or <a href='http://wp-livechat.com/get-updated-version/' target='_BLANK'>here</a>."
+msgstr "Du kan uppdatera ditt tillägg <a href='./update-core.php'>här</a>, <a href='./plugins.php'>här</a> eller <a href='http://wp-livechat.com/get-updated-version/' target='_BLANK'>här</a>."
+
+#: wp-live-chat-support.php:1699
+msgid "You're live chat box on your website has been temporarily disabled until the Pro plugin has been updated. This is to ensure a smooth and hassle-free user experience for both yourself and your visitors."
+msgstr "Rutan för livechatt på webbplatsen har tillfälligt inaktiverats tills Pro-tillägget uppdateras. Detta sker för att säkerställa en smidig och problemfri användarupplevelse för både dig och dina besökare."
+
+#: wp-live-chat-support.php:1698
+msgid "to ensure all functionality is in working order"
+msgstr "för att säkerställa att alla funktioner funkar"
+
+#: wp-live-chat-support.php:1698
+msgid "update to at least version"
+msgstr "uppdatera till senaste versionen"
+
+#: wp-live-chat-support.php:1698
+msgid "You are using an outdated version of <strong>WP Live Chat Support Pro</strong>. Please"
+msgstr "Du använder en föråldrad version av <strong>WP Live Chat Support Pro</strong>. "
+
+#: wp-live-chat-support.php:1697 wp-live-chat-support.php:1712
+msgid "Dear Pro User"
+msgstr "Kära Pro användare"
+
+#: wp-live-chat-support.php:1247
+msgid "A new chat has been received. Please go the 'Live Chat' page to accept the chat"
+msgstr "En ny chatt har mottagits. Gå till sidan ”Live Chat” för att acceptera chatten"
+
+#: wp-live-chat-support.php:1245
+msgid "New chat received"
+msgstr "Ny chatt mottagen"
+
+#: wp-live-chat-support.php:853 wp-live-chat-support.php:1037
+#: wp-live-chat-support.php:1959
+msgid "Send"
+msgstr "Skicka"
+
+#: wp-live-chat-support.php:849 wp-live-chat-support.php:1033
+#: wp-live-chat-support.php:1945
+msgid "Press ENTER to send your message"
+msgstr "Tryck ENTER flr att skicka ditt meddelande"
+
+#: wp-live-chat-support.php:786 wp-live-chat-support.php:967
+msgid "Start Live Chat"
+msgstr "Starta livechatt"
+
+#: wp-live-chat-support.php:450
+msgid "Extensions"
+msgstr "Utökningar"
+
+#: wp-live-chat-support.php:449 wp-live-chat-support.php:2762
+msgid "Support"
+msgstr "Support"
+
+#: wp-live-chat-support.php:447
+msgid "Missed Chats"
+msgstr "Missade chattar"
+
+#: wp-live-chat-support.php:446
+msgid "History"
+msgstr "Historik"
+
+#: wp-live-chat-support.php:445
+msgid "Settings"
+msgstr "Inställningar"
+
+#: wp-live-chat-support.php:444
+msgid "Live Chat"
+msgstr "Live Chat"
+
+#: wp-live-chat-support.php:407 wp-live-chat-support.php:2233
+msgid "Please click \\'Start Chat\\' to initiate a chat with an agent"
+msgstr "Klicka på ”Börja chatta” för att inleda en chatt med en agent"
+
+#: includes/welcome_page.php:49
+msgid "Skip"
+msgstr "Hoppa över"
+
+#: includes/welcome_page.php:47
+msgid "Submit"
+msgstr "Skicka"
+
+#: includes/welcome_page.php:38
+msgid "Please Explain"
+msgstr "Var god förklara"
+
+#: includes/welcome_page.php:34
+msgid "Other"
+msgstr "Övrigt"
+
+#: includes/welcome_page.php:28
+msgid "Friend recommendation"
+msgstr "Vänrekommendation"
+
+#: includes/welcome_page.php:22
+msgid "Google or other search Engine"
+msgstr "Google eller andra sökmotorer"
+
+#: includes/welcome_page.php:18
+msgid "Search Term"
+msgstr "Sökterm"
+
+#: includes/welcome_page.php:15
+msgid "WordPress.org plugin repository "
+msgstr "Tilläggskatalogen på WordPress.org "
+
+#: includes/welcome_page.php:10
+msgid "How did you find us?"
+msgstr "Hur hittade du oss?"
+
+#: includes/welcome_page.php:8
+msgid "Provide Instant Live Chat Support!"
+msgstr "Ge omedelbar Live Chat-support!"
+
+#: includes/welcome_page.php:6
+msgid "Version 5"
+msgstr "Version 5"
+
+#: includes/welcome_page.php:4
+msgid "Welcome to "
+msgstr "Välkommen till "
+
+#: includes/settings_page.php:583
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: includes/settings_page.php:573
+msgid "Encrypt your chat messages in the "
+msgstr "Kryptera dina chattmeddelanden i "
+
+#: includes/settings_page.php:569
+msgid "All messages will be encrypted when being sent to and from the user and agent."
+msgstr "Alla meddelanden kommer att krypteras när de skickas till och från användare och agent."
+
+#: includes/settings_page.php:569
+msgid "Enable Encryption"
+msgstr "Aktivera kryptering"
+
+#: includes/settings_page.php:566
+msgid "Chat Encryption"
+msgstr "Chattkryptering"
+
+#: includes/settings_page.php:563
+msgid "Blocking a user's IP Address here will hide the chat window from them, preventing them from chatting with you. Each IP Address must be on a new line"
+msgstr "När du blockerar en användares IP-adress här kommer chattfönstret att döljas för dem så att de inte kan chatta med dig. Varje IP-adress måste skrivas på en egen rad"
+
+#: includes/settings_page.php:552
+msgid "Enter each IP Address you would like to block on a new line"
+msgstr "Ange varje IP-adress du vill blockera på en egen rad"
+
+#: includes/settings_page.php:551
+msgid "Blocked Visitors - Based on IP Address"
+msgstr "Blockerade besökare – baserat på IP-adresser"
+
+#: includes/settings_page.php:540
+msgid "Pro version for only $19.95 once off."
+msgstr "Pro-versionen för endast 19,95 USD engångspris."
+
+#: includes/settings_page.php:540
+msgid "Add as many agents as you need with the "
+msgstr "Lägg till så många agenter du behöver med "
+
+#: includes/settings_page.php:539
+msgid "Add Agent"
+msgstr "Lägg till agent"
+
+#: includes/settings_page.php:535
+msgid "Author"
+msgstr "Skapare"
+
+#: includes/settings_page.php:529
+msgid "Editor"
+msgstr "Redaktör"
+
+#: includes/settings_page.php:523
+msgid "Administrator"
+msgstr "Administratör"
+
+#: includes/settings_page.php:516 wp-live-chat-support.php:1946
+msgid "Select"
+msgstr "Välj"
+
+#: includes/settings_page.php:514
+msgid "Add New Agent"
+msgstr "Lägg till ny agent"
+
+#: includes/settings_page.php:503
+msgid "Online"
+msgstr "Online"
+
+#: includes/settings_page.php:495
+msgid "Current Users that are Chat Agents"
+msgstr "Nuvarande användare som är chattagenter"
+
+#: includes/settings_page.php:451
+msgid "No Animation"
+msgstr "Ingen animering"
+
+#: includes/settings_page.php:447
+msgid "Fade In"
+msgstr "Tona in"
+
+#: includes/settings_page.php:443
+msgid "Slide From The Side"
+msgstr "Glid in från sidan"
+
+#: includes/settings_page.php:439
+msgid "Slide Up"
+msgstr "Glid in nedifrån"
+
+#: includes/settings_page.php:432
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/settings_page.php:431
+msgid "Choose an animation. Only available in the"
+msgstr "Välj en animering. Endast tillgänglig i"
+
+#: includes/settings_page.php:393 wp-live-chat-support.php:844
+#: wp-live-chat-support.php:1028
+msgid "Reactivating your previous chat..."
+msgstr "Återaktiverar din föregående chatt..."
+
+#: includes/settings_page.php:391
+msgid "Reactivate chat section text"
+msgstr "Återaktivera chatt textsektion"
+
+#: includes/settings_page.php:385 wp-live-chat-support.php:841
+#: wp-live-chat-support.php:1025
+msgid "Connecting you to a sales person. Please be patient."
+msgstr "Kopplar dig till en säljare. Var god vänta."
+
+#: includes/settings_page.php:384 wp-live-chat-support.php:838
+#: wp-live-chat-support.php:1022
+msgid "Start Chat"
+msgstr "Börja chatta"
+
+#: includes/settings_page.php:382
+msgid "Second section text"
+msgstr "Andra textsektionen"
+
+#: includes/settings_page.php:378 wp-live-chat-support.php:779
+#: wp-live-chat-support.php:960
+msgid "Chat with us"
+msgstr "Chatta med oss"
+
+#: includes/settings_page.php:377 wp-live-chat-support.php:779
+#: wp-live-chat-support.php:960
+msgid "Questions?"
+msgstr "Frågor?"
+
+#: includes/settings_page.php:375
+msgid "First section text"
+msgstr "Första textsektionen"
+
+#: includes/settings_page.php:368
+msgid "Chat box font color"
+msgstr "Chattfönster textfärg"
+
+#: includes/settings_page.php:362
+msgid "Chat box fill color"
+msgstr "Chattfönster färg"
+
+#: includes/settings_page.php:355
+msgid "Colour Scheme 6"
+msgstr "Färgschema 6"
+
+#: includes/settings_page.php:354
+msgid "Colour Scheme 5"
+msgstr "Färgschema 5"
+
+#: includes/settings_page.php:353
+msgid "Colour Scheme 4"
+msgstr "Färgschema 4"
+
+#: includes/settings_page.php:352
+msgid "Colour Scheme 3"
+msgstr "Färgschema 3"
+
+#: includes/settings_page.php:351
+msgid "Colour Scheme 2"
+msgstr "Färgschema 2"
+
+#: includes/settings_page.php:350
+msgid "Colour Scheme 1"
+msgstr "Färgschema 1"
+
+#: includes/settings_page.php:346
+msgid "Pro add-on"
+msgstr "Pro-utökningen"
+
+#: includes/settings_page.php:346
+msgid "Choose a colour scheme. Only available in the"
+msgstr "Välj ett färgschema. Endast tillgänglig i"
+
+#: includes/settings_page.php:321
+msgid "The chat window will be hidden when it is offline. Users will not be able to send offline messages to you"
+msgstr "Chattfönstret kommer att döljas när det är offline. Användare kan inte skicka offline meddelanden till dig"
+
+#: includes/settings_page.php:321
+msgid "Do not allow users to send offline messages"
+msgstr "Tillåt inte användare att skicka offline-meddelanden"
+
+#: includes/settings_page.php:312 includes/settings_page.php:396
+msgid "Edit these text fields using the "
+msgstr "Redigera dessa textfält med hjälp av "
+
+#: includes/settings_page.php:310
+msgid "Chat offline. Leave a message"
+msgstr "Chatt offline. Lämna ett meddelande"
+
+#: includes/settings_page.php:307
+msgid "Offline text"
+msgstr "Offline text"
+
+#: includes/settings_page.php:298
+msgid "Get offline messages with the "
+msgstr "Få offline meddelande med "
+
+#: includes/settings_page.php:292
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: includes/settings_page.php:274
+msgid "By checking this, only users that are logged in will be able to chat with you."
+msgstr "Genom att markera detta kommer endast användare som är inloggade att kunna chatta med dig."
+
+#: includes/settings_page.php:274
+msgid "Only show the chat window to users that are logged in"
+msgstr "Visa bara chattfönstret för användare som är inloggade"
+
+#: includes/settings_page.php:264
+msgid "Display the agent and user name above each message in the chat window."
+msgstr "Visa agentens och användarens namn ovanför varje meddelande i chattfönstret."
+
+#: includes/settings_page.php:264
+msgid "Display name and avatar in chat"
+msgstr "Visa namn och profilbild i chatt"
+
+#: includes/settings_page.php:252
+msgid "Alert me via email as soon as someone wants to chat"
+msgstr "Skicka ett email till mig så snart någon vill chatta"
+
+#: includes/settings_page.php:248
+msgid "Chat notifications"
+msgstr "Chattnotifikationer"
+
+#: includes/settings_page.php:232
+msgid "Chat delay (seconds)"
+msgstr "Chattfördröjning (sekunder)"
+
+#: includes/settings_page.php:216
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/settings_page.php:203 includes/settings_page.php:219
+msgid "Upload Image"
+msgstr "Ladda upp bild"
+
+#: includes/settings_page.php:200
+msgid "Picture"
+msgstr "Bild"
+
+#: includes/settings_page.php:175
+msgid "Expand the chat box automatically (prompts the user to enter their name and email address)."
+msgstr "Expandera chattrutan automatiskt (uppmanar användaren att ange namn och e-postadress)."
+
+#: includes/settings_page.php:175
+msgid "Auto Pop-up"
+msgstr "Automatisk popup"
+
+#: includes/settings_page.php:169
+msgid "Right"
+msgstr "Höger"
+
+#: includes/settings_page.php:168
+msgid "Left"
+msgstr "Vänster"
+
+#: includes/settings_page.php:167
+msgid "Bottom right"
+msgstr "Botten till höger"
+
+#: includes/settings_page.php:166
+msgid "Bottom left"
+msgstr "Botten till vänster"
+
+#: includes/settings_page.php:163
+msgid "Chat box alignment"
+msgstr "Chattfönster placering"
+
+#: includes/settings_page.php:160
+msgid "Chat Window Settings"
+msgstr "Inställningar Chattfönster"
+
+#: includes/settings_page.php:140
+msgid "Do not show the chat window on the following pages. Leave blank to show on all. (Use comma-separated Page ID's)"
+msgstr "Visa inte chattfönstret på följande sidor. Lämna tomt för att visa på alla. (Använd kommaseparerade sid-ID:n)"
+
+#: includes/settings_page.php:140
+msgid "Exclude chat window on the following pages"
+msgstr "Exkludera chattfönster på följande sidor"
+
+#: includes/settings_page.php:125
+msgid "Show the chat window on the following pages. Leave blank to show on all. (Use comma-separated Page ID's)"
+msgstr "Visa chattfönstret på följande sidor. Lämna tomt för att visa på alla. (Använd kommaseparerade sid-ID:n)"
+
+#: includes/settings_page.php:125
+msgid "Include chat window on the following pages"
+msgstr "Inkludera chattfönster på följande sidor"
+
+#: includes/settings_page.php:117
+msgid "Disable this to mute the sound that is played when a new chat message is received"
+msgstr "Avaktivera detta för att stänga av ljudet som spelas när ett nytt chattmeddelande tas emot"
+
+#: includes/settings_page.php:117
+msgid "Play a sound when a new message is received"
+msgstr "Spela ett ljud när ett nytt meddelande är mottaget"
+
+#: includes/settings_page.php:109
+msgid "Disable this to enable anonymity for your visitors"
+msgstr "Inaktivera detta för att aktivera anonymitet för dina besökare"
+
+#: includes/settings_page.php:109
+msgid "Record a visitor's IP Address"
+msgstr "Registrera besökares IP-adresser"
+
+#: includes/settings_page.php:101
+msgid "Disabling this will mean that the Chat Box will not be displayed on mobile devices. (Smartphones and Tablets)"
+msgstr "Om man inaktiverar detta alternativ kommer chatt-rutan inte att visas på mobila enheter (smartphone och surfplattor)."
+
+#: includes/settings_page.php:101
+msgid "Enable On Mobile Devices"
+msgstr "Aktivera på mobila enheter"
+
+#: includes/settings_page.php:93
+msgid "A user's Name and Email Address will be used by default if they are logged in."
+msgstr "En användares namn och e-postadress kommer att användas som standard om de är inloggade."
+
+#: includes/settings_page.php:93
+msgid "Use Logged In User Details"
+msgstr "Använd uppgifter om den inloggade användaren"
+
+#: includes/settings_page.php:85
+msgid "This is the text that will show in place of the Name And Email fields"
+msgstr "Detta är den text som visas i stället för fälten namn och e-post"
+
+#: includes/settings_page.php:85
+msgid "Input Field Replacement Text"
+msgstr "Ersättningstext för inmatningsfält"
+
+#: includes/settings_page.php:77
+msgid "Users will have to enter their Name and Email Address when starting a chat"
+msgstr "Användare måste ange sitt namn och e-postadress när man startar en chatt"
+
+#: includes/settings_page.php:77
+msgid "Require Name And Email"
+msgstr "Kräv namn och e-post"
+
+#: includes/settings_page.php:61
+msgid "Hides chat for 24hrs when user clicks X"
+msgstr "Göm chatten i 24 timmar när användaren klickar på X"
+
+#: includes/settings_page.php:61
+msgid "Hide Chat"
+msgstr "Dölj chatt"
+
+#: includes/settings_page.php:54 includes/settings_page.php:69
+#: includes/settings_page.php:133 includes/settings_page.php:148
+#: includes/settings_page.php:192 includes/settings_page.php:208
+#: includes/settings_page.php:224 includes/settings_page.php:240
+#: includes/settings_page.php:257
+msgid "only"
+msgstr "endast"
+
+#: includes/settings_page.php:53 includes/settings_page.php:68
+#: includes/settings_page.php:132 includes/settings_page.php:147
+#: includes/settings_page.php:191 includes/settings_page.php:207
+#: includes/settings_page.php:223 includes/settings_page.php:239
+#: includes/settings_page.php:256 includes/settings_page.php:299
+#: includes/settings_page.php:313 includes/settings_page.php:397
+#: includes/settings_page.php:574 wp-live-chat-support.php:2369
+#: wp-live-chat-support.php:2391
+msgid "Pro Add-on"
+msgstr "Pro-utökningar"
+
+#: includes/settings_page.php:52 includes/settings_page.php:67
+#: includes/settings_page.php:131 includes/settings_page.php:146
+#: includes/settings_page.php:190 includes/settings_page.php:206
+#: includes/settings_page.php:222 includes/settings_page.php:238
+#: includes/settings_page.php:255
+msgid "available in the"
+msgstr "tillgängligt i"
+
+#: includes/settings_page.php:46
+msgid "Checking this will allow you to change your status to Online or Offline on the Live Chat page."
+msgstr "Genom att markera här kan du ändra din status till online eller offline på Live Chat-sidan."
+
+#: includes/settings_page.php:46
+msgid "Choose when I want to be online"
+msgstr "Välj när jag vill vara online"
+
+#: includes/settings_page.php:41
+msgid "No"
+msgstr "Nej"
+
+#: includes/settings_page.php:40
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/settings_page.php:37
+msgid "Chat enabled"
+msgstr "Chatt aktiverad"
+
+#: includes/settings_page.php:34
+msgid "Main Settings"
+msgstr "Huvudinställningar"
+
+#: includes/settings_page.php:31
+msgid "Encryption"
+msgstr "Kryptering"
+
+#: includes/settings_page.php:30
+msgid "Blocked Visitors"
+msgstr "Blockerade besökare"
+
+#: includes/settings_page.php:29
+msgid "Agents"
+msgstr "Agenter"
+
+#: includes/settings_page.php:28 includes/settings_page.php:342
+msgid "Styling"
+msgstr "Styling"
+
+#: includes/settings_page.php:27 includes/settings_page.php:288
+msgid "Offline Messages"
+msgstr "Offline meddelanden"
+
+#: includes/settings_page.php:26
+msgid "Chat Box"
+msgstr "Chattruta"
+
+#: includes/settings_page.php:25
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+#: includes/settings_page.php:11
+msgid "WP Live Chat Support Settings"
+msgstr "Inställningar för WP live Chat Support"
+
+#: includes/feedback-page.php:48
+msgid "Send Feedback"
+msgstr "Skicka feedback"
+
+#: includes/feedback-page.php:37 wp-live-chat-support.php:448
+msgid "Feedback"
+msgstr "Feedback"
+
+#: includes/feedback-page.php:29
+msgid "Your Website"
+msgstr "Din webbplats"
+
+#: includes/feedback-page.php:21
+msgid "Your Email"
+msgstr "Din e-post"
+
+#: includes/feedback-page.php:13
+msgid "Your Name"
+msgstr "Ditt namn"
+
+#: includes/feedback-page.php:8
+msgid "We'd love to hear your comments and/or suggestions"
+msgstr "Vi vill verkligen höra dina kommentarer och/eller förslag"
+
+#: includes/feedback-page.php:7
+msgid "WP Live Chat Support Feedback"
+msgstr "WP Live Chat Support Feedback"
+
+#: functions.php:1283
+msgid "You have not missed any chat requests."
+msgstr "Du har inte missat några chattförfrågningar."
+
+#: functions.php:1256
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:1255 wp-live-chat-support.php:821
+#: wp-live-chat-support.php:1004
+msgid "Email"
+msgstr "E-post"
+
+#: functions.php:1254 includes/settings_page.php:184
+#: wp-live-chat-support.php:820 wp-live-chat-support.php:1003
+msgid "Name"
+msgstr "Namn"
+
+#: functions.php:1253
+msgid "Date"
+msgstr "Datum"
+
+#: functions.php:1036
+msgid "Get Pro Add-on to accept more chats"
+msgstr "Skaffa Pro-utökningar för att acceptera mer chattar"
+
+#: functions.php:899
+msgid "User is browsing but doesn't want to chat"
+msgstr "Användaren är online men vill inte chatta"
+
+#: functions.php:896
+msgid "Chat Ended - User still browsing"
+msgstr "Chat avslutad - Användare är fortfarande online"
+
+#: functions.php:893
+msgid "requesting chat"
+msgstr "begär chat"
+
+#: functions.php:890
+msgid "browsing"
+msgstr "bläddrar"
+
+#: functions.php:887
+msgid "deleted"
+msgstr "borttagen"
+
+#: functions.php:884
+msgid "active"
+msgstr "aktiv"
+
+#: functions.php:881
+msgid "pending"
+msgstr "inväntande"
+
+#: functions.php:878
+msgid "complete"
+msgstr "klart"
+
+#: functions.php:490
+msgid "Returning"
+msgstr "Återvändande"
+
+#: functions.php:488
+msgid "New"
+msgstr "Ny"
+
+#: functions.php:467
+msgid "Initiate Chat"
+msgstr "Påbörja chatt"
+
+#: functions.php:462
+msgid "Open Chat"
+msgstr "Öppna chatt"
+
+#: functions.php:335 wp-live-chat-support.php:1936
+msgid "IP Address:"
+msgstr "IP-adress:"
+
+#: functions.php:334 wp-live-chat-support.php:1935
+msgid "Browser:"
+msgstr "Webbläsare:"
+
+#: functions.php:332 wp-live-chat-support.php:1933
+msgid "Advanced Info"
+msgstr "Avancerad info"
+
+#: functions.php:328 wp-live-chat-support.php:1929
+msgid "Chat initiated on:"
+msgstr "Chatt påbörjades:"
+
+#: functions.php:326 wp-live-chat-support.php:1927
+msgid "Site Info"
+msgstr "Webbplatsinfo"
+
+#: functions.php:303 functions.php:464
+msgid "This chat is active"
+msgstr "Den här chatten är aktiv"
+
+#: functions.php:303 functions.php:464
+msgid "Chat Active"
+msgstr "Chatt aktiv"
+
+#: functions.php:301
+msgid "Open Chat Window"
+msgstr "Öppna chattfönster"
+
+#: functions.php:297 functions.php:455
+msgid "You have an incoming chat."
+msgstr "Du har en inkommande chatt."
+
+#: functions.php:297 functions.php:455
+msgid "Incoming Chat"
+msgstr "Inkommande chatt"
+
+#: functions.php:295 functions.php:453 functions.php:1036
+msgid "Accept Chat"
+msgstr "Acceptera chatt"
+
+#: functions.php:290 functions.php:448 wp-live-chat-support.php:1904
+msgid "Whois for"
+msgstr "Whois för"
+
+#: functions.php:288 functions.php:446 wp-live-chat-support.php:1902
+msgid "IP Address not recorded"
+msgstr "IP-adressen är inte registrerad"
+
+#: functions.php:273
+msgid "Active Chats"
+msgstr "Aktiva chattar"
+
+#: functions.php:271
+msgid "No chat sessions available at the moment"
+msgstr "Inga chattar är tillgängliga för tillfället"
+
+#: ajax_new.php:238
+msgid "There is No Answer. Please Try Again Later"
+msgstr "Inget svar. Var god och testa senare"
+
+#: ajax_new.php:214
+msgid "Admin has closed and ended the chat"
+msgstr "Administratören har stäng och avslutat chatten"
