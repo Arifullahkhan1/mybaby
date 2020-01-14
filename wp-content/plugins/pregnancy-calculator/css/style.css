@@ -1,0 +1,111 @@
+#pregnancy-calculator{
+	width: 90%;
+	height: auto;
+	margin: 100px auto;
+	overflow: hidden;
+}
+#pregnancy-calculator p, #pregnancy-calculator span{
+	margin:0;
+	padding:0;
+	font-size: 16px;
+}
+
+#pregnancy-calculator select, #pregnancy-calculator input{
+	padding: 5px;
+    text-align: center;
+    border: 1px solid #666;
+    border-radius: 6px;
+}
+
+#pregnancy-calculator .field-container{
+	width : 100%;
+	margin: auto;
+	padding-top: 15px;
+	overflow: hidden;
+	min-height: 60px;
+}
+#pregnancy-calculator .odd{
+	background : #ffffff;
+	border-bottom: 1px solid #666;
+}
+#pregnancy-calculator .even{
+	background : #F1F1F1;
+	border-bottom: 1px solid #666;
+}
+#pregnancy-calculator .title{
+	background: #666;
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid #666;
+}
+#pregnancy-calculator .title h3{
+	text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    color: #fff;
+}
+#pregnancy-calculator .field-container .mylabel{
+	width: 38%;
+	margin-right: 1%;
+	padding:5px;
+}
+#pregnancy-calculator .field-container .myfield {
+	width: 60%;
+	margin-left: 1%;
+}
+#pregnancy-calculator .field-container .mylabel p, #pregnancy-calculator .field-container .mylabel i{
+	margin:0;
+	padding:0;
+	text-align:right;
+}
+#pregnancy-calculator .field-container .mylabel, #pregnancy-calculator .field-container .myfield {
+	float: left;
+	overflow: hidden;
+}
+
+.clear{
+	clear:both;
+}
+
+#pregnancy-calculator #lmpDay, #pregnancy-calculator #coDay{
+	font-weight: bold;
+}
+#pregnancy-calculator .fontB {
+	font-weight: bold;
+}
+#pregnancy-calculator #foetalError{
+	color: red;
+}
+#pregnancy-calculator .text-center{
+	text-align: center;
+	padding-bottom: 15px;
+}
+#pregnancy-calculator #pregWeek, #pregnancy-calculator #pregwDay{
+	width:60px;
+}
+
+@media only screen and (max-width: 768px) and (min-width: 400px)  {
+
+#pregnancy-calculator .field-container{
+	min-height: 120px;
+}
+#pregnancy-calculator .field-container .mylabel{
+	width: 98%;
+	margin-right: 1%;
+	padding:5px;
+	height:60px;
+}
+#pregnancy-calculator .field-container .myfield {
+	width: 98%;
+	margin-left: 1%;
+	height:60px;
+}
+#pregnancy-calculator .field-container .mylabel p, #pregnancy-calculator .field-container .mylabel i{
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+#pregnancy-calculator .field-container .myfield {
+	text-align: center;
+}
+
+}
